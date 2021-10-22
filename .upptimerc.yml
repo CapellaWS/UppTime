@@ -1,27 +1,11 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
-sites:
+owner: CapellaWS # GitHub username
+repo: upptime # GitHub repository name
+sites: # List of endpoints to track
   - name: Platform Hybrid Working
     url: https://hybrid.capella-ws.com
   - name: Domus
     url: https://portal.capella.ie
-
-status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: upptime.capella-ws.com
-  baseUrl: /UppTime
-  logoUrl: https://k7smezvhyo-flywheel.netdna-ssl.com/wp-content/uploads/2020/09/logo.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: Hybrid Working Platform
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+assignees: # Users to assign downtime issues (optional)
+  - carlos-ws
+status-website: # Status website (optional)  
+  name: Upptime # Status website title
