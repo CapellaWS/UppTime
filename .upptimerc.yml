@@ -5,6 +5,10 @@ sites: # List of endpoints to track
     url: https://hybrid.capella-ws.com
   - name: Domus
     url: https://portal.capella.ie
+  - name: Website-com
+    url: https://capella-ws.com
+  - name: Website-ie
+    url: https://capella.ie
 assignees: # Users to assign downtime issues (optional)
   - carlos-cws
 status-website: # Status website (optional)  
