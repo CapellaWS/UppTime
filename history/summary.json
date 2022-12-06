@@ -42,9 +42,9 @@
     "url": "https://capella-ws.com",
     "icon": "https://icons.duckduckgo.com/ip3/capella-ws.com.ico",
     "slug": "website-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -54,6 +54,7 @@
     "timeMonth": 1101,
     "timeYear": 1183,
     "dailyMinutesDown": {
+      "2022-12-06": 0,
       "2022-09-06": 50
     }
   },
@@ -62,9 +63,9 @@
     "url": "https://capella.ie",
     "icon": "https://icons.duckduckgo.com/ip3/capella.ie.ico",
     "slug": "website-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -74,6 +75,7 @@
     "timeMonth": 1173,
     "timeYear": 1243,
     "dailyMinutesDown": {
+      "2022-12-06": 0,
       "2022-09-06": 77
     }
   }
