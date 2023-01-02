@@ -4,19 +4,19 @@
     "url": "https://hybrid.capella-ws.com",
     "icon": "https://icons.duckduckgo.com/ip3/hybrid.capella-ws.com.ico",
     "slug": "platform-hybrid-working",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 590,
-    "timeDay": 655,
-    "timeWeek": 468,
+    "timeDay": 604,
+    "timeWeek": 479,
     "timeMonth": 551,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2023-01-02": 0
+      "2023-01-02": 10
     }
   },
   {
