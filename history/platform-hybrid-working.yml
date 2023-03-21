@@ -1,7 +1,7 @@
 url: https://hybrid.capella-ws.com
-status: down
-code: 503
-responseTime: 530
-lastUpdated: 2023-03-21T13:33:31.070Z
+status: up
+code: 200
+responseTime: 488
+lastUpdated: 2023-03-21T13:43:44.801Z
 startTime: Fri Oct 22 2021 16:11:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
