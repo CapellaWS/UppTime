@@ -22,19 +22,19 @@
     "url": "https://portal.capella.ie",
     "icon": "https://icons.duckduckgo.com/ip3/portal.capella.ie.ico",
     "slug": "domus",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 750,
-    "timeDay": 408,
-    "timeWeek": 566,
-    "timeMonth": 649,
-    "timeYear": 741,
+    "timeDay": 450,
+    "timeWeek": 556,
+    "timeMonth": 645,
+    "timeYear": 740,
     "dailyMinutesDown": {
-      "2023-04-14": 0
+      "2023-04-14": 10
     }
   },
   {
