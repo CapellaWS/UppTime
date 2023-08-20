@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 585,
-    "timeDay": 486,
-    "timeWeek": 608,
-    "timeMonth": 602,
-    "timeYear": 582,
+    "timeDay": 619,
+    "timeWeek": 601,
+    "timeMonth": 610,
+    "timeYear": 583,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
     "time": 759,
-    "timeDay": 775,
-    "timeWeek": 711,
-    "timeMonth": 810,
-    "timeYear": 758,
+    "timeDay": 847,
+    "timeWeek": 717,
+    "timeMonth": 824,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2023-07-29": 150,
       "2023-06-08": 20
@@ -43,18 +43,19 @@
     "url": "https://capella-ws.com",
     "icon": "https://icons.duckduckgo.com/ip3/capella-ws.com.ico",
     "slug": "website-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1554,
-    "timeDay": 275,
-    "timeWeek": 1678,
-    "timeMonth": 1676,
-    "timeYear": 1704,
+    "timeDay": 0,
+    "timeWeek": 1511,
+    "timeMonth": 1680,
+    "timeYear": 1707,
     "dailyMinutesDown": {
+      "2023-08-20": 1,
       "2022-09-06": 50
     }
   },
@@ -69,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1419,
-    "timeDay": 1200,
-    "timeWeek": 1584,
-    "timeMonth": 1482,
-    "timeYear": 1492,
+    "time": 1439,
+    "timeDay": 11258,
+    "timeWeek": 2826,
+    "timeMonth": 1777,
+    "timeYear": 1521,
     "dailyMinutesDown": {
       "2022-09-06": 77
     }
