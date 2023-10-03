@@ -43,18 +43,20 @@
     "url": "https://capella-ws.com",
     "icon": "https://icons.duckduckgo.com/ip3/capella-ws.com.ico",
     "slug": "website-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1621,
-    "timeDay": 176,
-    "timeWeek": 1307,
-    "timeMonth": 1796,
-    "timeYear": 1820,
-    "dailyMinutesDown": {}
+    "time": 1619,
+    "timeDay": 157,
+    "timeWeek": 1161,
+    "timeMonth": 1742,
+    "timeYear": 1816,
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   },
   {
     "name": "Website-ie",
