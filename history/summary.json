@@ -43,18 +43,19 @@
     "url": "https://capella-ws.com",
     "icon": "https://icons.duckduckgo.com/ip3/capella-ws.com.ico",
     "slug": "website-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 1621,
+    "time": 1622,
     "timeDay": 105,
     "timeWeek": 1143,
     "timeMonth": 1592,
     "timeYear": 1819,
     "dailyMinutesDown": {
+      "2023-10-05": 0,
       "2023-10-03": 21
     }
   },
