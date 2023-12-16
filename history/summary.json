@@ -63,19 +63,19 @@
     "url": "https://capella.ie",
     "icon": "https://icons.duckduckgo.com/ip3/capella.ie.ico",
     "slug": "website-ie",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1496,
-    "timeDay": 237,
-    "timeWeek": 736,
-    "timeMonth": 1484,
-    "timeYear": 1627,
+    "time": 1498,
+    "timeDay": 1440,
+    "timeWeek": 974,
+    "timeMonth": 1521,
+    "timeYear": 1630,
     "dailyMinutesDown": {
-      "2023-12-16": 0
+      "2023-12-16": 9
     }
   }
 ]
