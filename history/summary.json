@@ -11,11 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 574,
-    "timeDay": 607,
-    "timeWeek": 458,
-    "timeMonth": 486,
-    "timeYear": 582,
-    "dailyMinutesDown": {}
+    "timeDay": 393,
+    "timeWeek": 426,
+    "timeMonth": 488,
+    "timeYear": 581,
+    "dailyMinutesDown": {
+      "2023-12-22": 0
+    }
   },
   {
     "name": "Domus",
@@ -29,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 754,
-    "timeDay": 916,
-    "timeWeek": 645,
-    "timeMonth": 696,
+    "timeDay": 609,
+    "timeWeek": 619,
+    "timeMonth": 702,
     "timeYear": 784,
     "dailyMinutesDown": {
       "2023-07-29": 150,
@@ -49,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1738,
-    "timeDay": 3890,
-    "timeWeek": 1034,
-    "timeMonth": 1158,
-    "timeYear": 1991,
+    "time": 1736,
+    "timeDay": 209,
+    "timeWeek": 1056,
+    "timeMonth": 1052,
+    "timeYear": 1986,
     "dailyMinutesDown": {
       "2023-10-03": 21
     }
@@ -69,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1499,
-    "timeDay": 2798,
-    "timeWeek": 1135,
-    "timeMonth": 1326,
-    "timeYear": 1637,
+    "time": 1497,
+    "timeDay": 295,
+    "timeWeek": 1132,
+    "timeMonth": 1269,
+    "timeYear": 1634,
     "dailyMinutesDown": {}
   }
 ]
