@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hybrid.capella-ws.com.ico",
     "slug": "platform-hybrid-working",
     "status": "up",
-    "uptime": "82.13%",
+    "uptime": "82.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "44.36%",
     "time": 586,
-    "timeDay": 859,
-    "timeWeek": 578,
-    "timeMonth": 595,
+    "timeDay": 565,
+    "timeWeek": 588,
+    "timeMonth": 587,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2024-08-25": 551,
@@ -234,11 +234,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 791,
-    "timeWeek": 756,
-    "timeMonth": 812,
-    "timeYear": 702,
+    "time": 719,
+    "timeDay": 629,
+    "timeWeek": 775,
+    "timeMonth": 811,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2024-05-31": 21
     }
@@ -254,11 +254,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1325,
-    "timeDay": 2875,
-    "timeWeek": 1431,
-    "timeMonth": 1498,
-    "timeYear": 1095,
+    "time": 1329,
+    "timeDay": 2155,
+    "timeWeek": 1714,
+    "timeMonth": 1559,
+    "timeYear": 1092,
     "dailyMinutesDown": {}
   },
   {
@@ -273,10 +273,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1232,
-    "timeDay": 3876,
-    "timeWeek": 1383,
-    "timeMonth": 1035,
-    "timeYear": 1118,
+    "timeDay": 1797,
+    "timeWeek": 1584,
+    "timeMonth": 1087,
+    "timeYear": 1116,
     "dailyMinutesDown": {}
   }
 ]
