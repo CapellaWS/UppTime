@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hybrid.capella-ws.com.ico",
     "slug": "platform-hybrid-working",
     "status": "up",
-    "uptime": "83.64%",
+    "uptime": "83.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.80%",
+    "uptimeYear": "55.95%",
     "time": 594,
     "timeDay": 813,
     "timeWeek": 741,
@@ -184,9 +184,9 @@
     "url": "https://portal.capella.ie",
     "icon": "https://icons.duckduckgo.com/ip3/portal.capella.ie.ico",
     "slug": "domus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -196,6 +196,7 @@
     "timeMonth": 845,
     "timeYear": 698,
     "dailyMinutesDown": {
+      "2025-03-17": 0,
       "2024-05-31": 21
     }
   },
