@@ -6,17 +6,16 @@
     "slug": "platform-hybrid-working",
     "status": "up",
     "uptime": "84.20%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "67.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "67.85%",
     "time": 639,
     "timeDay": 505,
     "timeWeek": 633,
     "timeMonth": 813,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2025-04-29": 12,
       "2025-03-24": 23,
       "2024-08-25": 551,
       "2024-08-24": 1440,
@@ -134,8 +133,7 @@
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
-      "2024-05-01": 1440,
-      "2024-04-30": 1440
+      "2024-05-01": 1440
     }
   },
   {
