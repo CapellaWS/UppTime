@@ -25,7 +25,7 @@
     "url": "https://portal.capella-ws.com",
     "icon": "https://icons.duckduckgo.com/ip3/portal.capella-ws.com.ico",
     "slug": "domus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
     "uptimeDay": "97.30%",
     "uptimeWeek": "99.11%",
@@ -37,6 +37,7 @@
     "timeMonth": 5818,
     "timeYear": 3937,
     "dailyMinutesDown": {
+      "2026-03-18": 0,
       "2026-03-17": 39,
       "2026-03-15": 25,
       "2026-03-12": 26,
