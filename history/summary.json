@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1770,
-    "timeDay": 734,
-    "timeWeek": 749,
-    "timeMonth": 715,
-    "timeYear": 2155,
+    "timeDay": 656,
+    "timeWeek": 736,
+    "timeMonth": 713,
+    "timeYear": 2156,
     "dailyMinutesDown": {
       "2026-02-05": 47
     }
@@ -26,17 +26,16 @@
     "slug": "domus",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "97.89%",
-    "time": 3109,
-    "timeDay": 6027,
-    "timeWeek": 5044,
-    "timeMonth": 6456,
-    "timeYear": 4097,
+    "time": 3122,
+    "timeDay": 8511,
+    "timeWeek": 4920,
+    "timeMonth": 6493,
+    "timeYear": 4113,
     "dailyMinutesDown": {
-      "2026-03-28": 14,
       "2026-03-26": 18,
       "2026-03-25": 22,
       "2026-03-22": 51,
@@ -78,16 +77,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1172,
-    "timeDay": 1414,
-    "timeWeek": 1077,
-    "timeMonth": 1057,
-    "timeYear": 1171,
+    "time": 1167,
+    "timeDay": 657,
+    "timeWeek": 1011,
+    "timeMonth": 1043,
+    "timeYear": 1161,
     "dailyMinutesDown": {
       "2026-02-26": 29,
       "2025-12-05": 21,
-      "2025-05-22": 20,
-      "2025-03-29": 19
+      "2025-05-22": 20
     }
   },
   {
@@ -101,16 +99,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 517,
-    "timeDay": 352,
-    "timeWeek": 464,
-    "timeMonth": 507,
-    "timeYear": 452,
+    "time": 518,
+    "timeDay": 338,
+    "timeWeek": 459,
+    "timeMonth": 501,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2026-02-26": 27,
       "2025-12-05": 21,
-      "2025-05-22": 20,
-      "2025-03-29": 17
+      "2025-05-22": 20
     }
   }
 ]
